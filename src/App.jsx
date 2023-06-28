@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import PopupForm from "./components/popupForm/PopupForm";
 import MeetingRoom from "./components/meetingRoom/MeetingRoom";
-import PopupButton from "./components/popupButton/popupButton";
+import PopupButton from "./components/popupButton/PopupButton";
 
 function App() {
 
